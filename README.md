@@ -101,7 +101,6 @@ print(f"Test Box mAP50: {metrics.box.map50:.4f}")
 print(f"Test Box mAP50-95: {metrics.box.map:.4f}")
 ```
 
-
 ## 👤 Author
 
 * **Md Kawsar Mahmud**
